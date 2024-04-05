@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Nicolas RIBEIRO
 
 Mimoun Kissi
 
 Bordeaux
+=======
+Nicolas RIBEIRO
+>>>>>>> parent of 307a842 (Ajout nom formateur)
